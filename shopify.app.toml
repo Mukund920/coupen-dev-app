@@ -2,7 +2,7 @@
 
 client_id = "79c22069194baaab6abe2d7e06ff3771"
 name = "coupen-dev-app"
-application_url = "https://sometimes-remedy-advisory-ceo.trycloudflare.com/"
+application_url = "https://coupen-dev-app.vercel.app/"
 embedded = true
 
 [build]
@@ -25,4 +25,4 @@ api_version = "2026-01"
 scopes = "write_products"
 
 [auth]
-redirect_urls = [ "https://example.com/api/auth" ]
+redirect_urls = [ "https://coupen-dev-app.vercel.app/" ]
