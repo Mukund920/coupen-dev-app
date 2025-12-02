@@ -2,7 +2,7 @@
 
 client_id = "79c22069194baaab6abe2d7e06ff3771"
 name = "coupen-dev-app"
-application_url = "https://example.com"
+application_url = "https://sometimes-remedy-advisory-ceo.trycloudflare.com/"
 embedded = true
 
 [build]
